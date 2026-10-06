@@ -78,3 +78,4 @@ The app is ready for standard Next.js deployment. Set the same environment varia
 - Persistent user history for uploaded jobs
 - Batch processing and PDF support
 - Export to DOCX, CSV, and other formats
+"# Image-To-Text" 
